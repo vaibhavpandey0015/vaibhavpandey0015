@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Bootstrap**
 
-- 👨‍💻 All of my projects are available at [http://vaibhavpandey.unaux.com](http://vaibhavpandey.unaux.com)
+- 👨‍💻 All of my projects are available at [vaibhavpandey.unaux.com](http://vaibhavpandey.unaux.com)
 
 - 💬 Ask me about **Web Development**
 
