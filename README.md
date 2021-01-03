@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavpandey0015" alt="vaibhavpandey0015" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce T-shirt website**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **Bootstrap**
 
