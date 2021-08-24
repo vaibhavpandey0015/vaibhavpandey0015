@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Pandey</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate Data Analyst and fullstack developer from India</h3>
 
 <img src="https://iili.io/2Mz3PI.png" alt="coverpic" border="0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavpandey0015" alt="vaibhavpandey0015" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **Microsoft Power BI**
 
-- 🌱 I’m currently learning **ReactJS**
+- 👯 I’m looking to collaborate on **Microsoft Power BI**
 
-- 👯 I’m looking to collaborate on **Bootstrap**
-
-- 👨‍💻 All of my projects are available at [vaibhavpandey.unaux.com](http://vaibhavpandey.unaux.com)
-
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development and Power BI**
 
 - 📫 How to reach me **vaibhavpandey0015@gmail.com**
 
@@ -27,8 +23,3 @@
 <a href="https://instagram.com/vai0015" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vai0015" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pandeyvaibhav001?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@pandeyvaibhav001" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavpandey0015&layout=compact" alt="vaibhavpandey0015" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavpandey0015&show_icons=true" alt="vaibhavpandey0015" /></p>
-
