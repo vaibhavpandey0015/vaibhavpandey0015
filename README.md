@@ -5,16 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavpandey0015" alt="vaibhavpandey0015" /> </p>
 
-- 🔭 I’m currently working on **Microsoft Power BI**
-
-- 👯 I’m looking to collaborate on **Microsoft Power BI**
-
-- 💬 Ask me about **Web Development and Power BI**
-
-- 📫 How to reach me **vaibhavpandey0015@gmail.com**
-
-- ⚡ Fun fact **My favorite game is T-Rex dino game**
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/@vaibhavpandey0015" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@vaibhavpandey0015" height="30" width="40" /></a>
